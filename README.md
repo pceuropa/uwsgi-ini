@@ -59,3 +59,5 @@ location / {
     proxy_set_header X-Real-IP $remote_addr;
 }
 ```
+
+[Stackoverflow topic](https://stackoverflow.com/a/54204573/4950565)
