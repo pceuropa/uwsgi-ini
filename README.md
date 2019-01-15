@@ -1,5 +1,5 @@
 # Falcon and uWSGI
-Falcon is faster than [flask](https://github.com/pallets/flask), uWSGi [uWSGI](https://github.com/nbit/uwsgi) is faster than [Gunicorn](https://github.com/benoitc/gunicorn).
+Falcon is faster than [flask](https://github.com/pallets/flask), uWSGi [uWSGI](https://github.com/unbit/uwsgi) is faster than [Gunicorn](https://github.com/benoitc/gunicorn).
 Test based on [pceuropa/testing-rest-api](https://github.com/pceuropa/testing-rest-api)
 
 DIRECTORY STRUCTURE
