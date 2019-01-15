@@ -12,7 +12,7 @@ from wsgiref import simple_server
 
 
 class Parent(object):
-    """Class to extends"""
+    """Class to extends. Have two method load json data from post and default get method"""
 
     def json_load(self, req):
         return loads(str(req.stream.read().decode("utf-8")))
